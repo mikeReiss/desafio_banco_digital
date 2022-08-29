@@ -1,2 +1,2 @@
-# desafio_banco_digital
-desafio de projeto da Dio
+# Desafio de projeto da Dio
+Banco digital em Java
